@@ -1,17 +1,25 @@
-# Component snippets
+# Headers snippets
 
-## Headers
+## v1
 
-### v1
-
-#### Screenshot
+### Screenshot
 
 ![v1](v1/screenshot.png)
 
-#### Description
+### Description
 
 Minimalistic transparent simple header.  
 Optionals:
 
 - dropdown menu
 - registration buttons
+
+## v2
+
+### Screenshot
+
+![v2](v2/screenshot.png)
+
+### Description
+
+Minimalistic tabled style header.
